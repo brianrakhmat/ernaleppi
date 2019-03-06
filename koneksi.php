@@ -1,8 +1,8 @@
 <?php
-	$server='localhost';
-	$user='root';
-	$pass='';
-	$db='spk-laptop26';
+	$server='sunankalijaga.org';
+	$user='sunankal_icidnew';
+	$pass='Brian0897';
+	$db='sunankal_icidnew';
 
 
 	$con=mysql_connect($server,$user,$pass);
